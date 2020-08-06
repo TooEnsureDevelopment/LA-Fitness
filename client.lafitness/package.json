@@ -1,0 +1,29 @@
+{
+  "name": "la-fitness",
+  "version": "1.0.0",
+  "description": "Modern website of LA-Fitness current site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TooEnsureDevelopment/LA-Fitness.git"
+  },
+  "keywords": [
+    "health",
+    "modern",
+    "workout",
+    "LA",
+    "LA-Fitness"
+  ],
+  "author": "Solo tech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TooEnsureDevelopment/LA-Fitness/issues"
+  },
+  "homepage": "https://github.com/TooEnsureDevelopment/LA-Fitness#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
